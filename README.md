@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img alt="App Demo" src="https://res.cloudinary.com/andredourado/image/upload/v1592313229/inter-web/desktop_kvnvki.png">
+  <img alt="App Demo" src="https://res.cloudinary.com/andredourado/image/upload/v1592341239/inter-web/mockup-with-devices_ahxyzt.png">
 </p>
 
 <p align="center">
