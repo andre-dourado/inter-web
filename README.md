@@ -39,7 +39,7 @@
 
 ## :rocket: Tecnologias
 
-Este projeto foi desenvolvido com o propósito de aprendera montar um layout responsivo utilizando o Flexbox. Visto, 
+Este projeto foi desenvolvido com o propósito de aprender a montar um layout responsivo utilizando o Flexbox. Sabendo disso, 
 foi utilizado as seguintes tecnologias:
 
 -  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
